@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupery",
+    "stock": 3
+  },
+  {
+    "id": 2,
+    "title": "L'Etranger",
+    "author": "Albert Camus",
+    "stock": 2
+  },
+  {
+    "id": 3,
+    "title": "Voyage au bout de la nuit",
+    "author": "Louis-Ferdinand Celine",
+    "stock": 0
+  },
+  {
+    "id": 4,
+    "title": "Les Miserables",
+    "author": "Victor Hugo",
+    "stock": 1
+  },
+  {
+    "id": 5,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "stock": 4
+  },
+  {
+    "id": 6,
+    "title": "Germinal",
+    "author": "Emile Zola",
+    "stock": 2
+  }
+]
